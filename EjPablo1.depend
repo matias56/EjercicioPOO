@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607743762 source:i:\progra\progra 2\ejpablo1\main.cpp
+	<iostream>
+	<list>
+	<string>
+	<cstdlib>
+	<ctime>
+
